@@ -1,0 +1,7 @@
+C:\Users\Hari\source\repos\TechShop1\TechShop1\obj\Debug\TechShop1.csproj.AssemblyReference.cache
+C:\Users\Hari\source\repos\TechShop1\TechShop1\obj\Debug\TechShop1.csproj.CoreCompileInputs.cache
+C:\Users\Hari\source\repos\TechShop1\TechShop1\bin\Debug\TechShop1.exe.config
+C:\Users\Hari\source\repos\TechShop1\TechShop1\bin\Debug\TechShop1.exe
+C:\Users\Hari\source\repos\TechShop1\TechShop1\bin\Debug\TechShop1.pdb
+C:\Users\Hari\source\repos\TechShop1\TechShop1\obj\Debug\TechShop1.exe
+C:\Users\Hari\source\repos\TechShop1\TechShop1\obj\Debug\TechShop1.pdb
